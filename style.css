@@ -1,0 +1,26 @@
+body {
+background-color: #D6E5FA;
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+img {
+  height: 150px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #00B4D8;
+}
+
+
+.top-container {
+  width: 29%;
+  float: left;
+  margin-left: 10px;
+}
+
+.middle-container {
+  width: 70%;
+  float: right;
+}
